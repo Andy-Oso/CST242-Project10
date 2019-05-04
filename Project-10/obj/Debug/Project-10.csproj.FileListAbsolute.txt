@@ -1,0 +1,10 @@
+C:\Users\Rubick\Documents\School Work\CST 242\Project-10\CST242-Project10\Project-10\bin\Debug\Project-10.exe.config
+C:\Users\Rubick\Documents\School Work\CST 242\Project-10\CST242-Project10\Project-10\bin\Debug\Project-10.exe
+C:\Users\Rubick\Documents\School Work\CST 242\Project-10\CST242-Project10\Project-10\bin\Debug\Project-10.pdb
+C:\Users\Rubick\Documents\School Work\CST 242\Project-10\CST242-Project10\Project-10\obj\Debug\Project-10.csprojAssemblyReference.cache
+C:\Users\Rubick\Documents\School Work\CST 242\Project-10\CST242-Project10\Project-10\obj\Debug\Project_10.Proj10Form.resources
+C:\Users\Rubick\Documents\School Work\CST 242\Project-10\CST242-Project10\Project-10\obj\Debug\Project_10.Properties.Resources.resources
+C:\Users\Rubick\Documents\School Work\CST 242\Project-10\CST242-Project10\Project-10\obj\Debug\Project-10.csproj.GenerateResource.cache
+C:\Users\Rubick\Documents\School Work\CST 242\Project-10\CST242-Project10\Project-10\obj\Debug\Project-10.csproj.CoreCompileInputs.cache
+C:\Users\Rubick\Documents\School Work\CST 242\Project-10\CST242-Project10\Project-10\obj\Debug\Project-10.exe
+C:\Users\Rubick\Documents\School Work\CST 242\Project-10\CST242-Project10\Project-10\obj\Debug\Project-10.pdb
